@@ -16,6 +16,7 @@ namespace Generics.BinaryTrees
 			var Element1 = new int[0];
 			var Element2 = new BinaryTree<int>();
 
+			// Новый комментарий
 			CollectionAssert.AreEqual(Element1, Element2);
 		}
 
